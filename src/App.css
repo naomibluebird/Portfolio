@@ -927,3 +927,6 @@ footer a:hover {
   border-radius: 100px;
   padding: 7px 14px;
 }
+.portfolio {
+  overflow-x: clip;
+}
