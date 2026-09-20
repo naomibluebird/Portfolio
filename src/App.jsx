@@ -20,7 +20,7 @@ const projects = [
       "Responsive user interface",
       "Application workflow",
     ],
-    tags: ["React", "JavaScript", "PHP", "MySQL"],
+    tags: ["React", "JavaScript", "PHP", "MySQL", "HTML", "CSS"],
     role: "Full-stack developer",
   },
 
