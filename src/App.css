@@ -840,6 +840,13 @@ footer a:hover {
 @media (max-width: 750px) {
   .block {
     padding: 64px 0;
+    .contact-item {
+  text-align: center;
+}
+
+.contact-item a {
+  overflow-wrap: anywhere;
+}
   }
 
   .hero-blob {
